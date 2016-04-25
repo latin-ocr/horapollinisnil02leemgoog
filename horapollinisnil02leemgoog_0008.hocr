@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./horapollinisnil02leemgoog_0008.png"; bbox 0 0 2826 5100; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 473 1079 964 1185">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 473 1079 964 1185">
+     <span class='ocr_line' id='line_1_1' title="bbox 473 1079 964 1185; baseline 0.006 -20"><span class='ocrx_word' id='word_1_1' title='bbox 473 1079 964 1185; x_wconf 74' lang='lat' dir='ltr'>PARENTIBUS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 269 1584 1312 1765">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 269 1584 1312 1765">
+     <span class='ocr_line' id='line_1_2' title="bbox 269 1584 1312 1765; baseline 0.006 -32"><span class='ocrx_word' id='word_1_2' title='bbox 269 1759 273 1765; x_wconf 26' lang='grc'>,</span> <span class='ocrx_word' id='word_1_3' title='bbox 364 1647 1078 1739; x_wconf 58' lang='grc' dir='ltr'><strong>ΡηΑΕοΕΡΤοΒιΒυε·</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1250 1584 1312 1633; x_wconf 41' lang='grc'><strong>’“</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 549 2176 847 2311">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 549 2176 847 2311">
+     <span class='ocr_line' id='line_1_3' title="bbox 549 2176 847 2311; baseline 0.017 -6"><span class='ocrx_word' id='word_1_5' title='bbox 549 2176 847 2311; x_wconf 60' lang='lat' dir='ltr'><strong>&#39;Amuus</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1418 5100">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1418 5100">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1418 5100; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1418 5100; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
